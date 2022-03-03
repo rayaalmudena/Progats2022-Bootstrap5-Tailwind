@@ -1,0 +1,12 @@
+/* pseudo selectores y otros especiales */
+:root {
+  --primary: #f2b366;
+  --secondary: #3f2f21;
+  --bg-primary: rgba(190, 183, 171, 0.3);
+}
+
+/* Selectores por Tag */
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
